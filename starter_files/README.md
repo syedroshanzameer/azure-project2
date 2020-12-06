@@ -3,7 +3,7 @@
 
 This is the second project in the course. There are 2 parts to this project: 
 1. Building an AutoML experiment using the Azure Auto ML, Deploying it, consuming the endpoint. 
-    The dataset is donwloaded from the link provided in the project- BankMarketing dataset. https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv. This dataset is registered in ML studio. 
+    The dataset is downloaded from the link provided in the project- BankMarketing dataset. https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv. This dataset is registered in ML studio. 
     A Compute cluster is created with the specification. Standard_DS12_v2 with minimum nodes as 1. 
     Auto ML experiment is created using Azure Auto ML
     The experiment type is Classifaction. This experiement took close to 1 hr 20 mins to complete. 
@@ -19,8 +19,26 @@ This is the second project in the course. There are 2 parts to this project:
 ![](architecture.png)
 ![](architecture2.png)
 
+1. The dataset is downloaded from the link provided in the project- BankMarketing dataset. This dataset is registered in ML studio. 
+2. A Compute cluster is created with the specification. Standard_DS12_v2 with minimum nodes as 1. 
+3. Auto ML experiment is created using Azure Auto ML
+4. The experiment type is Classifaction. This experiement took close to 1 hr 20 mins to complete. 
+5. Then the best model is choosen and is deployed with authentication enabled using Azure container instance. 
+6. The deployed model is consumed using an endpoint using Swagger interface. 
 
 ## Key Steps
+![](/project2-screenshots/1bankmarketing-registereddataset.png)
+![](architecture2.png)
+![](architecture.png)
+![](architecture2.png)
+![](architecture.png)
+![](architecture2.png)
+![](architecture.png)
+![](architecture2.png)
+![](architecture.png)
+![](architecture2.png)
+![](architecture.png)
+![](architecture2.png)
 Some of the key steps involve: 
 1. Registering the dataset
 2. Running the experiment
