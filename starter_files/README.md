@@ -17,6 +17,8 @@ This is the second project in the course. There are 2 parts to this project:
 
 ## Architectural Diagram
 ![](architecture.png)
+![](architecture2.png)
+
 
 ## Key Steps
 Some of the key steps involve: 
