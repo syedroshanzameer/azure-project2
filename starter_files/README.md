@@ -16,7 +16,7 @@ This is the second project in the course. There are 2 parts to this project:
 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+
 
 ## Key Steps
 Some of the key steps involve: 
