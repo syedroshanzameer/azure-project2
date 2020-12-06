@@ -30,7 +30,16 @@ This is the second project in the course. There are 2 parts to this project:
 ![Registered Dataset](project2-screenshots/1bankmarketing-registereddataset.png)
 ![](project2-screenshots/2AutoML-runcomplete.png)
 ![](project2-screenshots/3Bestmodel-complete.png)
-
+![](project2-screenshots/4Apllicationinsights-enables.png)
+![](project2-screenshots/5Log-py.png)
+![](project2-screenshots/6Swagger-localhost9000.png)
+![](project2-screenshots/7endpoint-jsonoutput.png)
+![](project2-screenshots/8Pipeline-created.png)
+![](project2-screenshots/9Pipeline-endpoint.png)
+![](project2-screenshots/10bankmarketing-pipeline.png)
+![](project2-screenshots/11Pipeline-restendpoint-active.png)
+![](project2-screenshots/12Pipleline-rundetails-widget.png)
+![](project2-screenshots/13MLstudio-running.png)
 
 
 Some of the key steps involve: 
