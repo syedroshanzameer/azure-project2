@@ -27,7 +27,7 @@ This is the second project in the course. There are 2 parts to this project:
 6. The deployed model is consumed using an endpoint using Swagger interface. 
 
 ## Key Steps
-![](/project2-screenshots/1bankmarketing-registereddataset.png)
+![](project2-screenshots/1bankmarketing-registereddataset.png)
 
 Some of the key steps involve: 
 1. Registering the dataset
