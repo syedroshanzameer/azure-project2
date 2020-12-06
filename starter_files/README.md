@@ -28,17 +28,7 @@ This is the second project in the course. There are 2 parts to this project:
 
 ## Key Steps
 ![](/project2-screenshots/1bankmarketing-registereddataset.png)
-![](architecture2.png)
-![](architecture.png)
-![](architecture2.png)
-![](architecture.png)
-![](architecture2.png)
-![](architecture.png)
-![](architecture2.png)
-![](architecture.png)
-![](architecture2.png)
-![](architecture.png)
-![](architecture2.png)
+
 Some of the key steps involve: 
 1. Registering the dataset
 2. Running the experiment
