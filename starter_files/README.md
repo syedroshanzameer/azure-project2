@@ -55,10 +55,13 @@ Some of the key steps involve:
 
 ** I have added all the screenshots in the "project2-screenshots" folder and I have named them appropriately.
 
-## Screen Recording
+## Screen Recording  --- modified and trimmed the video lenght to 4:59 as per the feedback that I got from the reviewer
 https://youtu.be/ZHEODdhU7fE
 
-## Standout Suggestions
+## Project Improvements  --- Added the project improvements section as per the feedback that I got from the reviewer
+I would like to tweek some paraments in the pipeline that I have created to see if I can get better accuracy in the models. 
+Also, I can use HyperDrive to run the same project. Looks like in project-3, we have to option to do this on our own. I could like to code out the entire project, So that I can pay around with multiple parameters and also look at the better performing models as I do it. 
+
 The port selection was one of the tricky part for me since port 80 was not giving an kind of error but when I try to access the localhost from the browser it just says "Its working". Later I changed the port to 9000 and I was able to access it from Chrome. 
 Also the localhost doesn;t load the website in internet explorer for some reason. It works only in Chrome. 
 ***When editing the url inside the swagger interface. I had to change it to HTTP from HTTPS(this doesnt work). ***
